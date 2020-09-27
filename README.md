@@ -1,6 +1,6 @@
 # i_am_rich
 
-A new Flutter application.
+Udemyの講座で作った画像表示練習アプリ
 
 ## Getting Started
 
